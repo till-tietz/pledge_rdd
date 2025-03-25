@@ -13,7 +13,7 @@ To replicate the results of the paper:
 - follow the instruction in `scripts/rdd.R`
 
 To construct the data used for analysis from scratch:
-- cline this repository
+- clone this repository
 - unzip `data.zip`
 - run `scripts/prepare_data.R`
 
