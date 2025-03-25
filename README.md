@@ -19,9 +19,9 @@ To construct the data used for analysis from scratch:
 
 Please consult `sessionInfo.txt` for R + package version requirements. 
 
-## Note of Caution / A Plea for Forgiveness
+## Note of Caution
 
-Is this analysis 100% solid? Absolutely not!!! Could it benefit from further work and careful revision? 100%!!! This is really just a first stab at adding some causal identification to the pledge fulfillment literature and also just meant to be a bit of fun.   
+This is really just a first stab at adding some causal identification to the pledge fulfillment literature (and also just meant to be a bit of fun). The analysis could definitely benefit from revision and extension (something I may find the time to do eventually). Also please excuse the poor documentation and code quality in `scripts/prepare_data.R`. 
 
 ## Data Sources
 
